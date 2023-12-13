@@ -213,6 +213,6 @@ background-color: #F4F4FD;
          text-align: left;
    }
 
-   ul {
+      .list-style {
       list-style: none;
    }
