@@ -212,3 +212,7 @@ background-color: #F4F4FD;
          letter-spacing: 0.02em;
          text-align: left;
    }
+
+   ul {
+      list-style: none;
+   }
